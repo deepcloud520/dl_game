@@ -1,2 +1,2 @@
 # dl_game
-they are frame and the commandline ver and pygame(gui) ver.
+回合制卡牌游戏框架
