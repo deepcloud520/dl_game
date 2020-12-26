@@ -1,10 +1,3 @@
-'''
-=================
-= dl game frame =
-= by deepcloud  =
-=      ver 0.01 =
-=================
-'''
 import random as rd
 
 def die(nb=6):
